@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/OXyGMl4fGboAAAAd/animate-background-technology.gif" alt="MasterHead" width="100%" style="max-width:900px; border-radius: 8px; margin-top: 16px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDFkaHNyMmdrZzI5aTkxOTRkcmdic2x6enNzY20zNm8yOGo4cGo1NCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" alt="MasterHead" width="90%" style="max-width:400px; border-radius: 8px; margin-top: 16px;"/>
 </div>
 
 <!-- Profile badges and typing effect -->
@@ -18,27 +18,6 @@
   </p>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&width=600&height=70&lines=Android+Developer;AI-ML+Engineer;Always+Innovating+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
-
----
-
-## 👨‍💻 About Me
-```js
-const deekshith = {
-  name: "Deekshith B Gowda",
-  roles: ["Web3 Developer", "Full-Stack Engineer", "AI Tools Specialist", "Web Designer"],
-  location: "Bengaluru, India",
-  education: "B.E. in CSE – CIT (2022–2026)",
-  focus: ["Smart Contracts", "Creative Interfaces", "Scalable Web"],
-  skills: {
-    frontend: ["React", "Next.js", "Tailwind", "JavaScript", "TypeScript", "CSS", "HTML"],
-    backend: ["Node.js", "Express", "MongoDB", "PostgreSQL", "Redis"],
-    web3: ["Solidity", "Ethereum", "Hardhat", "Ethers.js", "Web3.js", "IPFS"],
-    design: ["Figma", "Canva", "Framer"],
-    aiTools: ["ChatGPT", "Gemini", "Midjourney", "Leonardo AI", "Runway ML"]
-  },
-  sayHi: () => "Let’s innovate and solve real-world problems together!"
-}
-```
 
 ---
 
@@ -92,14 +71,15 @@ const deekshith = {
   </tr>
     <tr>
     <td width="50%" align="center">
-      <h4>🔠 <a href="https://github.com/walnashgit/Tokenizer-Hindi">Devnagri (Hindi) tokenizer</a></h4>
-      <p>A specialized tokenizer for Devanagari script (used in Hindi and other Indian languages) based on Byte-Pair Encoding (BPE).</p>
+      <h4>🔠 <a href="https://github.com/walnashgit/Resnet50Imagenet">ResNet50 model for image classification on the ImageNet-1K dataset</a></h4>
+      <p>ResNet50 model for image classification on the ImageNet-1K dataset using PyTorch Lightning. The model is trained to classify images into 1000 different categories and includes a user-friendly Gradio interface for making predictions.</p>
      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/>
     </td>
     <td width="50%" align="center">
-      <h4>💬 <a href="https://github.com/walnashgit/S30-Capstone">Multimodal GPT - Trained on PHI2 LLM</a></h4>
-      <p>multimodal GPT capable of handling images, audio and text as input for context for question and answer from the GPT. This uses PHI2 LLM.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/>
+      <h4>🤖 <a href="https://github.com/walnashgit/ComposeNavigationDrawer/tree/feature/NavDrawerBottomNavScaffold">Navigation Drawer and Bottom Navigation created inside a Scaffold in Jetpack compose</a></h4>
+      <p>Sample to explore Navigation Drawer and Bottom Navigation created inside a Scaffold in Jetpack compose. The sample also explores saving state across different composables.</p>
+      <a href = "https://proandroiddev.com/navigation-drawer-using-jetpack-compose-27ea7db74903"><p>Check out the blog</p>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
     </td>
   </tr>
 </table>
